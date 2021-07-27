@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoShow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="best_videos">Best Videos</string>
+    <string name="special_videos">special Videos</string>
+    <string name="more_videos">More Videos</string>
+</resources>
